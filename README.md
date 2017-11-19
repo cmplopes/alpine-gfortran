@@ -7,9 +7,13 @@ $ docker pull -t cmplopes/alpine-gfortran:[TAG]
 ```
 
 ## Suported Tags
+
 6.4, latest (over alpine:edge)
+
 6.3 (over alpine:3.6)
+
 6.2 (over alpine:3.5)
+
 5.3 (over alpine:3.4)
 
 
