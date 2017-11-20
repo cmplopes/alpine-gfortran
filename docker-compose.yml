@@ -1,7 +1,0 @@
-gfortran_dev:
-   image: cmplopes/alpine-gfortran:6.3
-   container_name: gfortran_dev
-   volumes:
-      - ./code:/source:Z
-   working_dir: /source
-
