@@ -18,15 +18,15 @@ $ docker pull -t cmplopes/alpine-gfortran:[TAG]
 
 ## Check GNU Fortran version
 ```
-$ docker run --rm -it -v $(pwd):/source cmplopes/alpine:gfortran:6.3
+$ docker run --rm -it -v $(pwd):/source cmplopes/alpine-gfortran:6.3
 ```
 or
 ```
-$ docker run --rm -it -v $(pwd):/source cmplopes/alpine:gfortran:6.3 gfortran --version
+$ docker run --rm -it -v $(pwd):/source cmplopes/alpine-gfortran:6.3 gfortran --version
 ```
 
 ## Compile, link and run a Fortran program
 ```
-$ docker run --rm -it -v $(pwd):/source cmplopes/alpine:gfortran:6.3 gfortran -Wall -o test /source/test.f90
-$ docker run --rm -it -v $(pwd):/source cmplopes/alpine:gfortran:6.3 ./test
+$ docker run --rm -it -v $(pwd):/source cmplopes/alpine-gfortran:6.3 gfortran -Wall -o test /source/test.f90
+$ docker run --rm -it -v $(pwd):/source cmplopes/alpine-gfortran:6.3 ./test
 ```
