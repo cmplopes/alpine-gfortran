@@ -7,7 +7,7 @@ $ docker pull -t cmplopes/alpine-gfortran:[TAG]
 
 ## Suported Tags
 
-[latest (6.4 over alpine:3.7) (Dockerfile)](https://github.com/cmplopes/alpine-gfortran/blob/master/6.4/Dockerfile)
+[6.4, latest (over alpine:3.7) (Dockerfile)](https://github.com/cmplopes/alpine-gfortran/blob/master/6.4/Dockerfile)
 
 [6.3 (over alpine:3.6) (Dockerfile)](https://github.com/cmplopes/alpine-gfortran/blob/master/6.3/Dockerfile)
 
