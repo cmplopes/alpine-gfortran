@@ -7,13 +7,15 @@ $ docker pull -t cmplopes/alpine-gfortran:[TAG]
 
 ## Suported Tags
 
-[6.4, latest (over alpine:3.7) (Dockerfile)](https://github.com/cmplopes/alpine-gfortran/blob/master/6.4/Dockerfile)
+[edge - (gfortran 6.4.0-r6 over alpine:edge) (Dockerfile)](https://github.com/cmplopes/alpine-gfortran/blob/master/edge/Dockerfile)
 
-[6.3 (over alpine:3.6) (Dockerfile)](https://github.com/cmplopes/alpine-gfortran/blob/master/6.3/Dockerfile)
+[6.4, latest - (gfortran 6.4.0-r5 over alpine:3.7) (Dockerfile)](https://github.com/cmplopes/alpine-gfortran/blob/master/6.4/Dockerfile)
 
-[6.2 (over alpine:3.5) (Dockerfile)](https://github.com/cmplopes/alpine-gfortran/blob/master/6.2/Dockerfile)
+[6.3 - (gfortran 6.3.0-r4 over alpine:3.6) (Dockerfile)](https://github.com/cmplopes/alpine-gfortran/blob/master/6.3/Dockerfile)
 
-[5.3 (over alpine:3.4) (Dockerfile)](https://github.com/cmplopes/alpine-gfortran/blob/master/5.3/Dockerfile)
+[6.2 - (gfortran 6.2.1-r1 over alpine:3.5) (Dockerfile)](https://github.com/cmplopes/alpine-gfortran/blob/master/6.2/Dockerfile)
+
+[5.3 - (gfortran 5.3.0-r0 over alpine:3.4) (Dockerfile)](https://github.com/cmplopes/alpine-gfortran/blob/master/5.3/Dockerfile)
 
 
 ## Check GNU Fortran version
