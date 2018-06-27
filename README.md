@@ -7,7 +7,7 @@ $ docker pull -t cmplopes/alpine-gfortran:[TAG]
 
 ## Suported Tags
 
-[edge - (gfortran 6.4.0-r6 over alpine:edge) (Dockerfile)](https://github.com/cmplopes/alpine-gfortran/blob/master/edge/Dockerfile)
+[edge - (gfortran 6.4.0-r8 over alpine:edge) (Dockerfile)](https://github.com/cmplopes/alpine-gfortran/blob/master/edge/Dockerfile)
 
 [6.4, latest - (gfortran 6.4.0-r5 over alpine:3.7) (Dockerfile)](https://github.com/cmplopes/alpine-gfortran/blob/master/6.4/Dockerfile)
 
