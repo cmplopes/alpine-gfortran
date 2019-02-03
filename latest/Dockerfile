@@ -1,4 +1,4 @@
-FROM alpine:3.8
+FROM alpine:3.9
 MAINTAINER Carlos Lopes "cmplopes67@gmail.com"
 
 RUN apk add --no-cache bash bash-doc bash-completion
