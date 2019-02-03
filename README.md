@@ -9,7 +9,9 @@ $ docker pull -t cmplopes/alpine-gfortran:[TAG]
 
 [edge - (gfortran 8.2.0-r0 over alpine:edge) (Dockerfile)](https://github.com/cmplopes/alpine-gfortran/blob/master/edge/Dockerfile)
 
-[6.4, latest - (gfortran 6.4.0-r9 over alpine:3.8) (Dockerfile)](https://github.com/cmplopes/alpine-gfortran/blob/master/6.4/Dockerfile)
+[8.2, latest - (gfortran 8.2.0-r0 over alpine:3.9) (Dockerfile)](https://github.com/cmplopes/alpine-gfortran/blob/master/8.2/Dockerfile)
+
+[6.4 - (gfortran 6.4.0-r9 over alpine:3.8) (Dockerfile)](https://github.com/cmplopes/alpine-gfortran/blob/master/6.4/Dockerfile)
 
 [6.3 - (gfortran 6.3.0-r4 over alpine:3.6) (Dockerfile)](https://github.com/cmplopes/alpine-gfortran/blob/master/6.3/Dockerfile)
 
