@@ -2,7 +2,7 @@
 Docker GNU Fortran, gdb and make over Alpine Linux
 
 ```
-$ docker pull -t cmplopes/alpine-gfortran:[TAG]
+$ docker pull cmplopes/alpine-gfortran:[TAG]
 ```
 
 ## Suported Tags
