@@ -1,4 +1,4 @@
-FROM alpine:3.13
+FROM alpine:3.15
 LABEL maintainer="Carlos Lopes (cmplopes67@gmail.com)"
 
 RUN apk add --no-cache bash bash-doc bash-completion
