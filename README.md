@@ -7,7 +7,9 @@ $ docker pull cmplopes/alpine-gfortran:[TAG]
 
 ## Suported Tags
 
-[10.2, latest - (gfortran 10.2.1_pre1-r3 over alpine:3.13) (Dockerfile)](https://github.com/cmplopes/alpine-gfortran/blob/master/10.2/Dockerfile)
+[10.3, latest - (gfortran 10.3.1_git20211027-r0 over alpine:3.15) (Dockerfile)](https://github.com/cmplopes/alpine-gfortran/blob/master/10.3/Dockerfile)
+
+[10.2 - (gfortran 10.2.1_pre1-r3 over alpine:3.13) (Dockerfile)](https://github.com/cmplopes/alpine-gfortran/blob/master/10.2/Dockerfile)
 
 [9.3 - (gfortran 9.3.0-r2 over alpine:3.12) (Dockerfile)](https://github.com/cmplopes/alpine-gfortran/blob/master/9.3/Dockerfile)
 
